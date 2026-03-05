@@ -1,8 +1,21 @@
 {
-  "name": "github-actions-demo",
+  "name": "github-actions-examples",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "build": "echo Building project...",
-    "test": "echo Running tests..."
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narendharjakka/github-actions-tutorial2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/narendharjakka/github-actions-tutorial2/issues"
+  },
+  "homepage": "https://github.com/narendharjakka/github-actions-tutorial2#readme"
 }

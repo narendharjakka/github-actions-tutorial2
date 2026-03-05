@@ -1,6 +1,7 @@
 name: Setup Node.js Env
 
 on:
+  workflow_dispatch:
   push:
     branches: ["main"]
 
